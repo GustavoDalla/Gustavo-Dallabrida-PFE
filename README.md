@@ -5,6 +5,7 @@ Olá, meu nome é Gustavo Dallabrida Stahnke :star:
 - E-mail escolar gustavo.stahnke@escola.pr.gov.br
 
 **Interessado em aprender novas linguagens**
+
 Atualmente estou cursando:
 
 - HTML
